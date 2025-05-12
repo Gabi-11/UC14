@@ -1,0 +1,7 @@
+.lista {
+  list-style: circle;
+  padding: 0 20px;
+  max-width: 400px;
+  margin: auto;
+  color: #444;
+}
